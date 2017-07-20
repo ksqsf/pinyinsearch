@@ -15,7 +15,7 @@ your GNOME desktop. Don't hesitate to report any bugs if that's the case.
 ## Features
 * Pinyin Match: `软件` -> `ruanjian`, `ruan jian`, `ru ji`, `rj`, etc.
 * First-char Match: `Avahi Zeroconf` -> `a z`.
-* Whitespace Ignorance: `Avahi Zeroconf` -> `a z`.
+* Whitespace Ignorance: `Avahi Zeroconf` -> `az`.
 * In-word Match: `Emacs` -> `acs`.
 
 ## Known Problems
@@ -44,5 +44,5 @@ MIT-style.
 ## Author
 This extension is made with love by [ksqsf](https://ksqsf.moe).
 
-`dict-zi-*.js` was authored by [hotoo](https://hotoo.me/), with modifications
+`ziHansFreq.js` was authored by [hotoo](https://hotoo.me/), with modifications
 by ksqsf.
