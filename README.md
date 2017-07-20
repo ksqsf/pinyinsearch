@@ -42,7 +42,7 @@ Enable it with GNOME Tweak Tool or through GNOME Extensions.
 MIT-style.
 
 ## Author
-This extension is made with love by [ksqsf](https://ksqsf.moe).
+Made with ♥ by [ksqsf](https://ksqsf.moe).
 
 `ziHansFreq.js` was authored by [hotoo](https://hotoo.me/), with modifications
 by ksqsf.
